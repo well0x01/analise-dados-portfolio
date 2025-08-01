@@ -12,49 +12,6 @@ Aqui você encontrará projetos desenvolvidos com foco em **resolução de probl
 
 ## 📁 Estrutura do Portfólio
 
-/analise-de-dados
-│
-├── README.md  ← Página inicial com apresentação geral
-│
-├── sql-server/
-│   ├── README.md  ← Explicação sobre o curso SQL Impressionador (até aula 30)
-│   ├── 01-introducao/
-│   ├── 02-instalacao-e-setup/
-│   ├── 03-consultas-basicas/
-│   ├── 04-ordenacoes-e-filtros/
-│   ├── 05-funcoes-agregadas/
-│   ├── 06-joins/
-│   ├── 07-subqueries-e-ctes/
-│   ├── 08-views-crud/
-│   ├── 09-strings-datas-e-condicoes/
-│   ├── 10-projetos-integrações/
-│   │   ├── projeto-excel/
-│   │   ├── projeto-powerbi/
-│   │   └── projeto-python/
-│   └── scripts.sql  ← Script completo ou dividido em tópicos
-│
-├── power-bi/
-│   ├── README.md  ← Explicação sobre o curso Power BI Impressionador
-│   ├── 01-introducao/
-│   ├── 02-power-query/
-│   ├── 03-relacionamentos/
-│   ├── 04-funcoes-dax/
-│   ├── 05-storytelling/
-│   ├── 06-visualizacao-dados/
-│   ├── 07-power-bi-online/
-│   ├── 08-exercicios-revisao/
-│   ├── 09-dax-avancado/
-│   ├── 10-conexao-sql-server/
-│   ├── 11-relatorios-prontos/
-│   └── 12-projetos-finais/
-│
-└── projetos-completos/
-    ├── projeto-vendas-global/
-    ├── projeto-metricas-financeiras/
-    ├── projeto-analise-clientes/
-    └── README.md  ← Explicações dos projetos que integram SQL + Power BI + Python
-
-
 ### 🔹 Projetos Individuais
 | Ferramenta | Descrição | Link |
 |-----------|-----------|------|
