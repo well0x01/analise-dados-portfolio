@@ -3,66 +3,89 @@
 Repositório: [github.com/well0x01](https://github.com/well0x01)
 
 Este repositório abriga os projetos e entregas finais desenvolvidos com base nos cursos:
-- **SQL Impressionador** (SQL Server)
-- **Power BI Impressionador**
-- **Python Impressionador**
+- **SQL Para Análise De Dados** (SQL Server)
+- **Power BI & Data Analytics**
+- **Python Fundamentos**
 
 Aqui você encontrará apenas os **resultados práticos e projetos finais**, como consultas SQL otimizadas, dashboards interativos no Power BI e notebooks Python com análises.
 
 ---
 
 ## 📂 sql-projects/
-Projetos finais com SQL Server baseados no banco Contoso ou dados simulados reais.
+Projetos finais com SQL Server baseados nos bancos Contoso e AdventureWorks.
 
 ```
 📁 sql-projects/
-├── contoso-analise-vendas/
-│   ├── queries.sql
-│   └── README.md
-├── faturamento-por-regiao/
-│   ├── queries.sql
-│   └── README.md
-└── clientes-top-ranking/
-    ├── queries.sql
-    └── README.md
+├── sql-server/                     
+│   ├── analise-contoso/
+│   │   ├── vendas_por_categoria.sql
+│   │   ├── top_10_clientes.sql
+│   │   ├── faturamento_regional.sql
+│   │   └── README.md
+│   ├── analise-adventureworks/
+│   │   ├── produtos_mais_vendidos.sql
+│   │   ├── ranking_funcionarios.sql
+│   │   └── README.md
+│   └── consultas-avancadas/
+│       ├── subqueries_exemplos.sql
+│       ├── cte_windowfunctions.sql
+│       └── README.md
 ```
 
 ---
 
 ## 📂 powerbi-dashboards/
-Dashboards desenvolvidos com Power BI Desktop e publicados no Power BI Service.
+Dashboards interativos e profissionais com Power BI Desktop, desde o zero até projetos completos de portfólio, usando design visual, DAX avançado, Power Query e conexão com SQL Server.
 
 ```
 📁 powerbi-dashboards/
-├── vendas-2024/
+├── dashboard-vendas-profissional/
 │   ├── dashboard.pbix
 │   └── README.md
-├── analise-clientes/
-│   ├── dashboard.pbix
+│
+├── conexao-sql-powerbi/
+│   ├── pbix-integrado.sqlserver.pbix
 │   └── README.md
-└── desempenho-regional/
-    ├── dashboard.pbix
+│
+├── dax-inteligencia-temporal/
+│   ├── indicadores-temporais.pbix
+│   └── README.md
+│
+├── modelagem-dados-avancada/
+│   ├── modelagem.pbix
+│   └── README.md
+│
+└── projetos-finais/
+    ├── projeto1-comercial.pbix
+    ├── projeto2-logistica.pbix
     └── README.md
 ```
 
 ---
 
-## 📂 python-projects/
-Projetos práticos construídos com base no curso Python Impressionador. Os notebooks abrangem automações, análise de dados com Pandas, integrações com Excel, WebScraping e mais.
+## 📂 python-fundamentals/
+Fundamentos da linguagem Python de forma prática, com foco em domínio das estruturas básicas, funções, módulos, orientação a objetos e uma introdução leve ao uso de pandas para análise de dados.
 
 ```
-📁 python-projects/
-├── analise-faturamento-lojas/
-│   ├── analise_lojas.ipynb
+📁 python-fundamentals/
+├── calculadora-interativa/
+│   ├── calculadora.py
 │   └── README.md
-├── gerador-senhas/
-│   ├── gerador_senhas.ipynb
+│
+├── validador-cpf/
+│   ├── validador.py
 │   └── README.md
-├── automacao-email-relatorios/
-│   ├── envio_emails.py
+│
+├── sistema-cadastro-orientado-a-objetos/
+│   ├── cadastro_clientes.py
 │   └── README.md
-└── dashboard-pandas/
-    ├── pandas_dashboard.ipynb
+│
+├── analise-dados-csv-pandas/
+│   ├── pandas_analise.ipynb
+│   └── README.md
+│
+└── funcoes-e-modulos/
+    ├── funcoes_utilitarias.py
     └── README.md
 ```
 
