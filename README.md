@@ -89,7 +89,6 @@ Fundamentos da linguagem Python de forma prática, com foco em domínio das estr
     └── README.md
 ```
 
-
 ---
 
 ## 📌 Sobre Mim
