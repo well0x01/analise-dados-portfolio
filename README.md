@@ -15,21 +15,37 @@ Aqui você encontrará apenas os **resultados práticos e projetos finais**, com
 Projetos finais com SQL Server baseados nos bancos Contoso e AdventureWorks.
 
 ```
-📁 sql-projects/
-├── sql-server/                     
-│   ├── analise-contoso/
-│   │   ├── vendas_por_categoria.sql
-│   │   ├── top_10_clientes.sql
-│   │   ├── faturamento_regional.sql
-│   │   └── README.md
-│   ├── analise-adventureworks/
-│   │   ├── produtos_mais_vendidos.sql
-│   │   ├── ranking_funcionarios.sql
-│   │   └── README.md
-│   └── consultas-avancadas/
-│       ├── subqueries_exemplos.sql
-│       ├── cte_windowfunctions.sql
-│       └── README.md
+📁 sql-projects/  
+├── contoso/  
+│   ├── modulo04-select-filtragem/  
+│   │   ├── exercicios.sql  
+│   │   └── README.md  
+│   ├── modulo05-joins/  
+│   ├── modulo06-groupby-having/  
+│   ├── modulo07-subqueries/  
+│   ├── modulo08-date-functions/  
+│   ├── modulo09-text-functions/  
+│   ├── modulo10-cte/  
+│   ├── modulo11-window-functions/  
+│   └── projetos-finais/  
+│       ├── vendas-por-categoria.sql  
+│       ├── ranking-lojas.sql  
+│       └── README.md  
+│
+├── adventureworks/  
+│   ├── analise-vendas.sql  
+│   ├── performance-funcionarios.sql  
+│   └── README.md  
+│
+├── bikestores/  
+│   ├── projeto-faturamento.sql  
+│   ├── analise-clientes.sql  
+│   └── README.md  
+│
+└── chinook/  
+    ├── projeto-musicas.sql  
+    ├── artistas-mais-vendidos.sql  
+    └── README.md  
 ```
 
 ---
