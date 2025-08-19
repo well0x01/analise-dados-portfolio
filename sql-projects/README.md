@@ -14,12 +14,18 @@ Cada diretório está organizado por banco de dados e por tema de estudo (módul
 ├── contoso/    
 │   ├── vendas-por-categoria.sql  
 │   ├── ranking-lojas.sql  
+│   │── produtos-top-por-categoria.sql
+│   │── vendas-acumuladas-por-ano.sql
 │   └── README.md  
 │
 ├── adventureworks/  
 │   ├── analise-vendas.sql  
 │   ├── performance-funcionarios.sql  
+│   │── top-vendedores.sql
+│   │── clientes-compradores-frequentes.sql
 │   └── README.md  
+│── 📄 README.md   ← (README principal do portfólio)
+
 
 ---
 
