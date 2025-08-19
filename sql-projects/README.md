@@ -49,7 +49,10 @@ Cada diretório está organizado por banco de dados e por tema de estudo (módul
 ---
 
 ## 🏆 Certificações e Estudos
-📖 Curso **SQL para Análise de Dados** – Bruce Fonseca   
+📖 Curso **SQL para Análise de Dados** – Bruce Fonseca  
+
+![Certificado SQL para Análise de Dados - Bruce Fonseca](./assets/Certificado - Comunidade Bruce de Análise de Dados - Wesley de Souza Luna - SQL para Análise de Dados.png)
+
 
 Cada certificação validada será adicionada com link ao certificado.  
 
