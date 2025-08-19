@@ -15,16 +15,21 @@ Aqui você encontrará apenas os **resultados práticos e projetos finais**, com
 Projetos finais com SQL Server baseados nos bancos Contoso e AdventureWorks.
 
 ```
-📁 sql-projects/  
+📁 sql-projects/     
 ├── contoso/    
 │   ├── vendas-por-categoria.sql  
 │   ├── ranking-lojas.sql  
+│   │── produtos-top-por-categoria.sql
+│   │── vendas-acumuladas-por-ano.sql
 │   └── README.md  
 │
 ├── adventureworks/  
 │   ├── analise-vendas.sql  
 │   ├── performance-funcionarios.sql  
-│   └── README.md
+│   │── top-vendedores.sql
+│   │── clientes-compradores-frequentes.sql
+│   └── README.md  
+│── 📄 README.md   ← (README principal do portfólio)
   
 ```
 
