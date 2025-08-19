@@ -1,34 +1,35 @@
-# 📊 Projetos Finais - ContosoRetailDW
+# 📊 Projetos SQL - ContosoRetailDW
 
-Projetos desenvolvidos utilizando o banco de dados **ContosoRetailDW**, com foco em **Análise de Vendas**.  
-Aqui estão queries consolidadas que simulam entregas reais de negócio, aplicando SQL para gerar insights.
+Este diretório contém consultas SQL realizadas sobre o banco **ContosoRetailDW**, utilizado como referência em Análise de Dados.  
+Os projetos combinam conceitos de **joins, agregações, subqueries, CTEs e window functions**.
 
----
+## 📁 Projetos
 
-## 📌 Projetos
+### 1. `vendas-por-categoria.sql`
+- Lista o **faturamento total por categoria de produto**.
+- Insights: permite identificar quais categorias têm maior peso no faturamento da empresa.
 
-### 1. Vendas por Categoria (`vendas-por-categoria.sql`)
-- **Objetivo**: identificar o faturamento total por categoria de produto.  
-- **Recursos aplicados**: `JOIN`, `GROUP BY`, `SUM`, `ORDER BY`.  
-- **Insight esperado**: descobrir quais categorias mais contribuem para o faturamento da empresa.
+### 2. `ranking-lojas.sql`
+- Classifica as lojas por **volume de vendas**.
+- Insights: revela quais unidades têm melhor desempenho e ajudam em decisões de expansão.
 
----
+### 3. `produtos-top-por-categoria.sql`
+- Identifica o **produto mais vendido dentro de cada categoria**.
+- Recursos: `CTE` + `ROW_NUMBER()`.
+- Insights: mostra produtos “carro-chefe” em cada segmento.
 
-### 2. Ranking de Lojas (`ranking-lojas.sql`)
-- **Objetivo**: ranquear as lojas com maior volume de vendas.  
-- **Recursos aplicados**: `JOIN`, `SUM`, `ORDER BY DESC`, `TOP`.  
-- **Insight esperado**: auxiliar na análise de performance por loja, destacando as top lojas que geram maior receita.
-
----
-
-## 🛠️ Competências Demonstradas
-- Criação de consultas consolidadas e analíticas.  
-- Uso de agregações avançadas para análise de negócios.  
-- Aplicação de **SQL Server** em contexto de **Data Analytics**.  
+### 4. `vendas-acumuladas-por-ano.sql`
+- Calcula o **faturamento mensal** e o **acumulado por ano**.
+- Recursos: `SUM() OVER()` (window function).
+- Insights: análise temporal para acompanhar crescimento e sazonalidade.
 
 ---
 
-## 📢 Próximos Passos
-- Ampliar as análises para outras bases (AdventureWorks, BikeStores, Chinook).  
-- Criar dashboards no Power BI conectados a essas queries.  
+## 🔑 Técnicas Utilizadas
+- Joins entre tabelas fato e dimensão  
+- Funções de agregação (`SUM`, `COUNT`)  
+- `GROUP BY` + `HAVING`  
+- Subqueries e `CTE`  
+- Window Functions (`ROW_NUMBER`, `SUM OVER`)  
 
+---
