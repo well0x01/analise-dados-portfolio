@@ -11,21 +11,10 @@ Cada diretório está organizado por banco de dados e por tema de estudo (módul
 ## 🗂 Estrutura Geral
 
 📁 sql-projects/  
-├── contoso/  
-│   ├── modulo04-select-filtragem/  
-│   │   ├── exercicios.sql  
-│   │   └── README.md  
-│   ├── modulo05-joins/  
-│   ├── modulo06-groupby-having/  
-│   ├── modulo07-subqueries/  
-│   ├── modulo08-date-functions/  
-│   ├── modulo09-text-functions/  
-│   ├── modulo10-cte/  
-│   ├── modulo11-window-functions/  
-│   └── projetos-finais/  
-│       ├── vendas-por-categoria.sql  
-│       ├── ranking-lojas.sql  
-│       └── README.md  
+├── contoso/    
+│   ├── vendas-por-categoria.sql  
+│   ├── ranking-lojas.sql  
+│   └── README.md  
 │
 ├── adventureworks/  
 │   ├── analise-vendas.sql  
