@@ -20,16 +20,6 @@ Cada diretório está organizado por banco de dados e por tema de estudo (módul
 │   ├── analise-vendas.sql  
 │   ├── performance-funcionarios.sql  
 │   └── README.md  
-│
-├── bikestores/  
-│   ├── projeto-faturamento.sql  
-│   ├── analise-clientes.sql  
-│   └── README.md  
-│
-└── chinook/  
-    ├── projeto-musicas.sql  
-    ├── artistas-mais-vendidos.sql  
-    └── README.md  
 
 ---
 
@@ -49,8 +39,6 @@ Cada diretório está organizado por banco de dados e por tema de estudo (módul
 ## 📌 Projetos Reais
 - **Contoso** → Análises de vendas por continente, produtos não vendidos, ranking de faturamento.  
 - **AdventureWorksDW** → Performance de funcionários, produtos mais vendidos.  
-- **BikeStores** → Projeto de análise de faturamento e top clientes.  
-- **Chinook** → Análises musicais, artistas mais vendidos, relatórios por gênero.  
 
 ---
 
