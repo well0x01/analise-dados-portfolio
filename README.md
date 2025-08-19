@@ -24,17 +24,8 @@ Projetos finais com SQL Server baseados nos bancos Contoso e AdventureWorks.
 ├── adventureworks/  
 │   ├── analise-vendas.sql  
 │   ├── performance-funcionarios.sql  
-│   └── README.md  
-│
-├── bikestores/  
-│   ├── projeto-faturamento.sql  
-│   ├── analise-clientes.sql  
-│   └── README.md  
-│
-└── chinook/  
-    ├── projeto-musicas.sql  
-    ├── artistas-mais-vendidos.sql  
-    └── README.md  
+│   └── README.md
+  
 ```
 
 ---
