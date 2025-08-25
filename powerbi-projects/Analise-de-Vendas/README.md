@@ -31,7 +31,7 @@ O objetivo foi aplicar conceitos fundamentais de modelagem, DAX e design para co
 ---
 
 ## 📸 Preview do Dashboard
-![Dashboard Principal](./imagens/dashboard_sales_overview.png)
+![Dashboard Principal](https://github.com/well0x01/analise-dados-portfolio/blob/main/powerbi-projects/Analise-de-Vendas/imagens/analise-de-vendas.png)
 
 ---
 
