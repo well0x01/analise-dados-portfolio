@@ -35,6 +35,23 @@ Projetos finais com SQL Server baseados nos bancos Contoso e AdventureWorks.
 
 ---
 
+## 📂 powerbi-projects/
+Dashboards interativos desenvolvidos no Power BI com base nos módulos do curso de Análise de Dados.
+
+```
+📁 powerbi-projects/
+├── Analise-de-Vendas/
+│ ├── imagens/
+│ │ └── analise-de-vendas.png
+│ │
+│ ├── relatorio/
+│ │ └── 2022 sales.pbix
+│ │
+│ └── README.md ← Documentação do projeto
+```
+
+---
+
 ## 📌 Sobre Mim
 
 Sou um entusiasta de Dados e Segurança da Informação, combinando conhecimento técnico com foco em resultados.  
